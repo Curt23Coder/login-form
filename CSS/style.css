@@ -184,6 +184,15 @@ ul li {
     text-align: center;
     margin: 0px;
 }
+button:hover {
+    cursor: pointer;
+}
+.box:hover {
+  cursor: pointer;
+}
+.text-box, .password-field:hover {
+    cursor:text;
+}
 @media (min-width: 326px) and (max-width: 379px){
     .main-login {
         margin: auto;
