@@ -69,6 +69,7 @@ button {
     border: unset #000 1px;
     border-radius: 10%;
     color: #fff;
+    transition: margin-top .30s ease-in-out;
 
 }
 .img-width {
@@ -186,6 +187,7 @@ ul li {
 }
 button:hover {
     cursor: pointer;
+    margin-top: 15px;
 }
 .box:hover {
   cursor: pointer;
@@ -193,6 +195,7 @@ button:hover {
 .text-box, .password-field:hover {
     cursor:text;
 }
+
 @media (min-width: 326px) and (max-width: 379px){
     .main-login {
         margin: auto;
