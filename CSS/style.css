@@ -261,10 +261,10 @@ button:hover {
     }
     .link-text{
         position: relative;
-        margin-top: 35px;
+        margin-top: 25px;
     }
     .a-link {
-        font-size: 15px;
+        font-size: 14px;
     }
  }
  @media (min-width: 380px) and (max-width: 499px){
