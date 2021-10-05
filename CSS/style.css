@@ -263,6 +263,9 @@ button:hover {
         position: relative;
         margin-top: 35px;
     }
+    .a-link {
+        font-size: 15px;
+    }
  }
  @media (min-width: 380px) and (max-width: 499px){
     .main-login {
