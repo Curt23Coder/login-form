@@ -187,9 +187,20 @@ ul li {
     text-align: center;
     margin: 0px;
 }
-button:hover {
+.button1:hover {
     cursor: pointer;
     margin-top: 15px;
+}
+.button2:hover {
+    cursor: pointer;
+    margin-top: 15px;
+}
+.button3:hover {
+    cursor: pointer;
+    margin-top: 15px;
+}
+.form-btn:hover {
+    cursor: pointer;
 }
 .box:hover {
   cursor: pointer;
