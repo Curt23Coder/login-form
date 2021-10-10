@@ -266,6 +266,9 @@ button:hover {
     .a-link {
         font-size: 14px;
     }
+    .list {
+        font-size: 14px;
+    }
  }
  @media (min-width: 380px) and (max-width: 499px){
     .main-login {
